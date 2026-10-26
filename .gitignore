@@ -1,0 +1,21 @@
+# Dataset (downloaded automatically by the notebook)
+bbc_text_cls.csv
+preprocessed_articles.csv
+topic_assignments.csv
+topic_modeling_summary.txt
+
+# Generated models and matrices
+*.pkl
+*.npy
+
+# Generated figures and visualizations
+wordclouds/
+bar_charts/
+comparison_topic_*.png
+lda_visualization.html
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
